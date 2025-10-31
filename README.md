@@ -102,10 +102,11 @@ Endpoint API utama di-host di bawah prefiks `/api`.
 * `POST /api/status`: Membuat entri status baru.
 ---
 <img width="1919" height="917" alt="Screenshot 2025-10-31 075142" src="https://github.com/user-attachments/assets/dc1be165-2aed-4e03-9a2c-0c5991a12fcd" />
----
+
 <img width="1432" height="928" alt="Screenshot 2025-10-31 075219" src="https://github.com/user-attachments/assets/9a72efe0-c2ab-43bc-a24f-c0a998c59bc2" />
----
+
 <img width="1040" height="925" alt="Screenshot 2025-10-31 075303" src="https://github.com/user-attachments/assets/6cf5342b-74ed-47c0-96ba-0ca6f48042f5" />
----
+
 <img width="774" height="892" alt="Screenshot 2025-10-31 075333" src="https://github.com/user-attachments/assets/4d957376-b533-446b-b6aa-122e315dc910" />
+
 ---
